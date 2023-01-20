@@ -155,6 +155,10 @@ body{
     padding: 10px;
 }
 
+a{
+    text-decoration: none;
+}
+
 a:link{
     color: #339;
 }
