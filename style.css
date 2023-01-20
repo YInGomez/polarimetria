@@ -109,9 +109,10 @@ h1, h2{
     margin-top: 30px;
 }
 
+
+
 body{
     background-color: #ddd;
-
 }
 
 #main{
@@ -177,7 +178,6 @@ a:visited{
         width: 100%;
         min-height: 100vh;
         height: 100%;
-
     }
     
     .left{
